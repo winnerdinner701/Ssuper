@@ -1,8 +1,4 @@
-THIS IS JUST AN EXAMPLE DONT PUT YOUR TOKEN OR PREFIX HERE!
-FIRST CREATE AN FILE CALLED config.json THEN TYPE IN IT 
 {
 	"token": "YOUR TOKEN HERE",
 	"prefix": "YOUR PREFIX HERE"
 } 
-
-dont forget to add your prefix and token!
